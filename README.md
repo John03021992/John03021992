@@ -3,7 +3,7 @@
 
 **John03021992/John03021992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![NOM](./cover.jpg)](https://github.com/John03021992/John03021992)
+[![NOM](./assets/cover.jpg)](https://github.com/John03021992/John03021992)
 
 Here are some ideas to get you started:
 
