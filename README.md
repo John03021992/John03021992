@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Cat lover
 - 🎸 I'm a musician
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/John03021992/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=John03021992&repo=github-readme-stats)](https://github.com/John03021992/github-readme-stats)
